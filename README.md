@@ -25,3 +25,4 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Open Data Science](https://github.com/sods)
 * [Open Sport](https://github.com/opensport)
 * [OpenATC](https://github.com/kfichter/OpenATC)
+* [Open Medicine](https://github.com/openmedicine)
