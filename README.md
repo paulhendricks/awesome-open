@@ -7,6 +7,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ## Table of Contents
 
+* [Artificial Engineering](https://github.com/Artificial-Engineering)
+* [Artificial University](https://github.com/Artificial-University)
 * [OpenAI](https://github.com/openai)
 * [OpenBioTech](https://github.com/openbiotech)
 * [OpenBioMechanics](https://github.com/openbiomechanics)
