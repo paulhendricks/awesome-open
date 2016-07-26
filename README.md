@@ -31,3 +31,4 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Open Medicine](https://github.com/openmedicine)
 * [Open Journalism](https://github.com/openjournalism)
 * [Open Politics](https://github.com/openpolitics)
+* [Open Robotics](https://github.com/openrobotics)
