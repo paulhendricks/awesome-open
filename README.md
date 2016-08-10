@@ -35,6 +35,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Open Politics](https://github.com/openpolitics)
 * [Open Robotics](https://github.com/openrobotics)
 * [Open Sales](https://github.com/opensales)
+* [Open Datasets](https://github.com/datasets)
 
 ## Other Awesome Resources
 
