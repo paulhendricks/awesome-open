@@ -31,7 +31,6 @@ or contact me [@pmhendri](https://www.twitter.com/pmhendri).
 * [Open Data Science](https://github.com/sods)
 * [OpenML](https://github.com/OpenML)
 * [Open Sport](https://github.com/opensport)
-* [OpenATC](https://github.com/kfichter/OpenATC)
 * [Open Medicine](https://github.com/openmedicine)
 * [Open Journalism](https://github.com/openjournalism)
 * [Open Politics](https://github.com/openpolitics)
